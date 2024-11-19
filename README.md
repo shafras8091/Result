@@ -34,6 +34,6 @@ This project is distributed under the MIT License, allowing you to use, modify, 
 
 # Support and Contact
 For support or queries, contact:
-Email: mohammedashfaq798@gmail.com
+Email: mshafras8091@gmail.com
 
 The Student Exam Results Viewer is an efficient and secure solution for managing and accessing examination results, making it an indispensable tool for modern education systems.
