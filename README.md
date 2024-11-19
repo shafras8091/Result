@@ -24,3 +24,16 @@ The Student Exam Results Viewer is a modern web application designed to streamli
 - Developed with PHP to handle server-side logic and result processing.
 - Database: Uses MySQL for reliable and efficient data storage and management.
 
+# Setup and Installation Guide
+## System Requirements
+- PHP installed on your machine (download at php.net).
+- MySQL or a similar database management tool like phpMyAdmin.
+
+# License Information
+This project is distributed under the MIT License, allowing you to use, modify, and share the software freely. Review the full license here.
+
+# Support and Contact
+For support or queries, contact:
+Email: mohammedashfaq798@gmail.com
+
+The Student Exam Results Viewer is an efficient and secure solution for managing and accessing examination results, making it an indispensable tool for modern education systems.
