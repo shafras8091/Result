@@ -15,7 +15,7 @@ The Student Exam Results Viewer is a modern web application designed to streamli
 ## Enhanced Data Security
  - Protects user data with secure database interactions and access controls.
 
-# Technology Stack
+## Technology Stack
 
 ### Frontend Technologies:
 - Built using HTML, CSS, JavaScript, and Bootstrap to ensure a clean and responsive interface.
