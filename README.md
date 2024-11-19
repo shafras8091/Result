@@ -17,10 +17,10 @@ The Student Exam Results Viewer is a modern web application designed to streamli
 
 # Technology Stack
 
-## Frontend Technologies:
+### Frontend Technologies:
 - Built using HTML, CSS, JavaScript, and Bootstrap to ensure a clean and responsive interface.
 
-## Backend Framework:
+### Backend Framework:
 - Developed with PHP to handle server-side logic and result processing.
 - Database: Uses MySQL for reliable and efficient data storage and management.
 
